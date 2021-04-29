@@ -1,0 +1,1 @@
+This is Cognis' first git project!
